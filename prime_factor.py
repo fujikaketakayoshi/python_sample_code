@@ -11,6 +11,8 @@ def prime_factor_list(n):
     return res
 
 print(prime_factor_list(60))  # 出力: [2, 2, 3, 5]
+print(prime_factor_list(6))
+print(prime_factor_list(8))
 
 def prime_factors(n):
     factors = {}
