@@ -11,3 +11,6 @@ arr2.append(200)
 print(arr2)
 arr2.clear()
 print(arr2)
+arr2.extend([1, 2, 3])
+print(arr2)
+
