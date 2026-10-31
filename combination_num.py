@@ -7,6 +7,6 @@ def combination_num(n, k):
 print(combination_num(N, K))
 import math
 
-N = 100
+N = 2*10**5
 K = 2
 print(math.comb(N, K))
